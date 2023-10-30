@@ -1,3 +1,1 @@
-# DL_HWs
-# DL_HWs
-# DL_HWs
+# HW1 , Deep Learning course
